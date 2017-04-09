@@ -1,0 +1,18 @@
+Xsession: X session started for pi at Thu Feb 13 05:23:24 UTC 2014
+Obt-Message: Xinerama extension is not present on the server
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+
+** (lxsession-logout:3037): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:3037): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.UPower was not provided by any .service files
+
+** (lxsession-logout:3037): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:3037): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:3037): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+
+** (lxsession-logout:3037): WARNING **: dbus-interface.c:94: DBUS: The name org.freedesktop.Hal was not provided by any .service files
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 15562 requests (15562 known processed) with 0 events remaining.
+pcmanfm: Fatal IO error 0 (Success) on X server :0.
